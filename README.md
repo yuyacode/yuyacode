@@ -26,7 +26,7 @@ React | jQuery | knockout.js | AngularJS | Laravel | FuelPHP
 MySQL | MariaDB | SQLite
 
 ### クラウド
-AWS
+#### AWS
 Cloud9 | VPC | EC2 | Aurora | S3 | CloudFront | Route53 | ALB | CloudWatch | Elastic IP | AMI | IAM | EventBridge | Step Functions | Lambda | DynamoDB | SNS | Chatbot | ECR | CloudFormation | Internet Gateway | NAT Gateway
 
 ### その他
