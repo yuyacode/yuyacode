@@ -20,7 +20,7 @@
 HTML | CSS | JavaScript | TypeScript | PHP | WordPress | Python | Go
 
 ### フレームワーク、ライブラリ
-React | jQuery | knockout.js | AngularJS | Laravel | FuelPHP
+React | jQuery | knockout.js | Laravel | FuelPHP
 
 ### RDB
 MySQL | MariaDB | SQLite
