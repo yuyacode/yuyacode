@@ -14,10 +14,10 @@
 
 ## スキル
 
-実務で多く触っている技術、数ヶ月のプロジェクトでのみ経験した技術、個人開発でのみ触れた技術が混同しているため、技術によって習得度に差があります
+実務で多く触れた技術、数ヶ月のプロジェクトでのみ経験した技術、個人開発でのみ触れた技術が混同しているため、技術によって習得度に差があります
 
 ### 言語
-HTML | CSS | JavaScript | TypeScript | PHP | WordPress | Python | Go
+HTML | CSS | JavaScript | TypeScript | PHP | Python | Go
 
 ### フレームワーク、ライブラリ
 React | jQuery | knockout.js | Laravel | FuelPHP
