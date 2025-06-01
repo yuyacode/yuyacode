@@ -27,7 +27,7 @@ MySQL | MariaDB | SQLite
 
 ### クラウド
 #### AWS
-Cloud9 | VPC | EC2 | RDS | S3 | CloudFront | Route53 | ALB | CloudWatch | Elastic IP | AMI | IAM | EventBridge | Step Functions | Lambda | DynamoDB | SNS | Chatbot | ECR | CloudFormation | Internet Gateway | NAT Gateway | ECS | Fargate | EBS
+Cloud9 | VPC | EC2 | RDS | S3 | CloudFront | Route53 | ALB | CloudWatch | Elastic IP | AMI | IAM | EventBridge | Step Functions | Lambda | DynamoDB | SNS | Chatbot | ECR | CloudFormation | Internet Gateway | NAT Gateway | ECS | Fargate | EBS | Secrets Manager | ACM
 
 ### その他
 GraphQL | Docker | GitHub | GitHub Actions | Bitbucket | heroku | Metabase | NewRelic | DBever | MySQL Workbench | Selenium
