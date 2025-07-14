@@ -4,46 +4,34 @@
 
 | key     | value           |
 |-------------|------------|
-| 年齢        | 24歳（2000年生まれ）     |
+| 年齢      | 24歳（2000年生まれ）     |
 | X        | https://x.com/yuya_code     |
 | Qiita    | https://qiita.com/yuya_naga |
 | 個人ブログ | https://natsuyuuuuu.com/ |
 
-## 経歴
-2023年4月に新卒で都内のWeb系自社開発企業に入社し、エンジニアやっています
+## スキルレベル（※業務経験あり：★）（2025年7月時点）
 
-## スキル
-
-実務で多く触れた技術、数ヶ月のプロジェクトでのみ経験した技術、個人開発でのみ触れた技術が混同しているため、技術によって習得度に差があります
-
-### 言語
-HTML | CSS | JavaScript | TypeScript | PHP | Python | Go
-
-### フレームワーク、ライブラリ
-React | jQuery | knockout.js | Laravel | FuelPHP
-
-### RDB
-MySQL | MariaDB | SQLite
-
-### クラウド
-#### AWS
-Cloud9 | VPC | EC2 | RDS | S3 | Route53 | ALB | CloudWatch | Elastic IP | AMI | IAM | EventBridge | Step Functions | Lambda | DynamoDB | SNS | Chatbot | ECR | CloudFormation | Internet Gateway | NAT Gateway | ECS | Fargate | EBS | Secrets Manager | ACM
-
-### その他
-GraphQL | Docker | GitHub | GitHub Actions | Bitbucket | Selenium
-
-
-<!--
-**yuyacode/yuyacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | 言語・環境 | 期間 | レベル |
+|---|---|---|---|
+| 担当フェーズ | 要件定義 | ★2年6ヶ月 | 複数メンバーやステークホルダーを巻き込み、ビジネスサイドとの要件ヒアリングからミーティング設計・仕様合意取りまとめまでを主担当として自走でリードできる |
+| | 基本設計 | ★2年6ヶ月 | 決定した要件を基に、システムの全体構造と主要コンポーネントを主担当として自走で策定できる |
+| | 詳細設計 | ★2年6ヶ月 | インターフェイス・データフロー・ロジックを主担当として設計・ドキュメント化し、ビジネスサイドや先輩エンジニアのフィードバックを取り込みながら合意形成～修正までをリードできる |
+| | 実装 | ★2年6ヶ月 | 業務で即戦力になれる |
+| | テスト | ★3ヶ月 | 開発者として単体・機能テストの設計・実装を自走で行い、機能品質を担保できる。加えて、QAチームと連携し、結合テストに必要な仕様やテスト観点を共有することで、プロダクト全体の品質向上に貢献できる。 |
+| 言語 | PHP | ★2年2ヶ月 | 業務で即戦力になれる |
+| | Python | ★3ヶ月 | 一人称で作業可能 |
+| | JavaScript | ★2年 | 一人称で作業可能 |
+| | TypeScript | ★1ヶ月 | 既存のコードを参考に基本的な機能改修を行うことが可能 |
+| | HTML | ★1年9ヶ月 | メンバーに最適なレビュー可能 |
+| | CSS | ★1年9ヶ月 | メンバーに最適なレビュー可能 |
+| | Go | 4ヶ月 | 一人称で作業可能 |
+| FW／ライブラリ | React | ★1ヶ月 | 既存のコードを参考に基本的な機能改修を行うことが可能 |
+| | Knockout.js | ★2年 | 業務で即戦力になれる |
+| | jQuery | ★2年 | 業務で即戦力になれる |
+| | FuelPHP | ★2年2ヶ月 | メンバーに最適なレビュー可能 |
+| | Laravel | 6ヶ月 | 業務で即戦力になれる |
+| DB | MySQL | ★1年9ヶ月 | テーブル設計可能 |
+| OS | Linux | ★2ヶ月 | 調べながらであれば作業可能 |
+| その他 | AWS（VPC、EC2、RDS、S3、Route53、ALB、CloudWatch、Elastic IP、AMI、IAM、EventBridge、Step Functions、Lambda、DynamoDB、SNS、Chatbot、ECR、CloudFormation、Internet Gateway、NAT Gateway、ECS、Fargate、EBS、Secrets Manager、ACM、Cloud9） | ★ 2年（業務外を含めると2年6ヶ月） | 実務および個人開発で下記を経験<br><br>【実務】<br>・EventBridge, Step Functions, Lambda を組み合わせた定時実行システムの設計、構築、運用<br>&nbsp;&nbsp;- CloudFormation を用いたインフラの IaC によるコード管理<br>&nbsp;&nbsp;- VPC, NAT Gateway 等を用いたネットワーク環境の構築<br>&nbsp;&nbsp;- CloudWatch, SNS, Chatbot を用いた監視、通知機構の構築<br>&nbsp;&nbsp;- その他、DynamoDB や IAM の設計、運用<br><br>・既存の EC2 インスタンスのランタイム(PHP)バージョンアップ対応や、EBS のコスト削減といった保守、運用改善<br><br>【個人開発】<br>・ECS(Fargate), ALB, RDS(Aurora)を中心としたコンテナWebアプリケーションの設計、構築<br>&nbsp;&nbsp;- DNS / SSL:Route53 によるドメイン管理と ACM を用いたSSL化<br>&nbsp;&nbsp;- 定時実行処理:EventBridge, Step Functions, Lambda を用いたサーバーレスバッチ機能の構築、運用<br>&nbsp;&nbsp;- セキュリティ:Secrets Manager による機密情報の安全な管理、IAMロールの適切な運用<br>&nbsp;&nbsp;- 上記インフラ全体の CloudFormation を用いた IaC 化 |
+| | Docker | ★2年4ヶ月（業務外を含めると2年6ヶ月） | 【実務】<br>・Lambdaで利用する本番用コンテナイメージの作成を経験<br>・コンテナ起動失敗時の調査, 改修を経験<br><br>【個人開発】<br>・ローカルでのマルチコンテナ開発環境の構築を経験<br>・ECS, Lambdaで利用する本番用コンテナイメージの作成を経験 |
+| | CI/CD（GitHub Actions） | ★ 9ヶ月（業務外を含めると1年6ヶ月） | 静的解析や自動テスト、本番環境への自動デプロイといった一連のCI/CDパイプラインをGitHub Actionsを用いて構築・運用可能。実務では既存ジョブの改善・運用を、個人開発では自動テストからデプロイまでのパイプライン全体の新規構築を経験。 |
