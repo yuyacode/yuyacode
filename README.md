@@ -9,6 +9,23 @@
 | Qiita    | https://qiita.com/yuya_naga |
 | 個人ブログ | https://natsuyuuuuu.com/ |
 
+
+## 今回の転職活動に向けて作成したポートフォリオ
+
+3年超の実務経験、および自己学習で培った知見を活かし、現職の課題を解決するWebアプリケーション「企業認知者を求人応募まで引き上げるためのサービス」を設計・実装しました。アーキテクチャ選定からインフラ構築（IaC）、CI/CD導入まで一貫して行い、自身の技術力を可視化できるポートフォリオとして公開しています。
+
+アプリケーションのアーキテクチャ図、技術選定の理由、機能一覧といった詳細な情報は、下記GitHubリポジトリのREADMEにまとめておりますので、ぜひご覧ください。
+
+▼ソースコード<br>
+・GitHub（メインリポジトリ）： https://github.com/yuyacode/AppLift
+
+▼アプリケーションURL<br>
+・企業側： https://app-lift.com/company/login
+（ID：demo_company1@example.com / PW：demo_company1）<br>
+・候補者側： https://app-lift.com/student/login
+（ID：demo_student1@example.com / PW：demo_student1）
+
+
 ## スキルレベル（※業務経験あり：★）（2025年7月時点）
 
 | | 言語・環境 | 期間 | レベル |
