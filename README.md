@@ -7,6 +7,7 @@
 | 年齢      | 25歳（2000年生まれ）     |
 | Qiita    | https://qiita.com/yuya_naga |
 | 個人ブログ | https://natsuyuuuuu.com/ |
+| 転職ドラフト | https://job-draft.jp/scout/users/75690 |
 
 
 ## 2026年3月頃より開始を予定している転職活動に向けて作成したポートフォリオ
