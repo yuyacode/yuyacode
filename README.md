@@ -22,9 +22,11 @@
 ・GitHub（メインリポジトリ）： https://github.com/yuyacode/AppLift
 
 ▼アプリケーションURL<br>
-・企業側： ~~https://app-lift.com/company/login~~（公開終了）
+・企業側（公開終了）
+  ~~https://app-lift.com/company/login~~
 （ID：demo_company1@example.com / PW：demo_company1）<br>
-・候補者側： ~~https://app-lift.com/student/login~~（公開終了）
+・候補者側（公開終了）
+  ~~https://app-lift.com/student/login~~
 （ID：demo_student1@example.com / PW：demo_student1）
 
 
