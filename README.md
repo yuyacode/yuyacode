@@ -10,7 +10,9 @@
 | 転職ドラフト | https://job-draft.jp/scout/users/75690 |
 
 
-## 2026年3月頃より開始を予定している転職活動に向けて作成したポートフォリオ
+## 2026年3月に行う転職活動に向けて作成したポートフォリオ
+
+※ 転職活動は終了済み
 
 3年超の実務経験、および自己学習で培った知見を活かし、現職の課題を解決するWebアプリケーション「企業認知者を求人応募まで引き上げるためのサービス」を設計・実装しました。アーキテクチャ選定からインフラ構築（IaC）、CI/CD導入まで一貫して行い、自身の技術力を可視化できるポートフォリオとして公開しています。
 
@@ -20,9 +22,9 @@
 ・GitHub（メインリポジトリ）： https://github.com/yuyacode/AppLift
 
 ▼アプリケーションURL<br>
-・企業側： https://app-lift.com/company/login
+・企業側： ~~https://app-lift.com/company/login~~（公開終了）
 （ID：demo_company1@example.com / PW：demo_company1）<br>
-・候補者側： https://app-lift.com/student/login
+・候補者側： ~~https://app-lift.com/student/login~~（公開終了）
 （ID：demo_student1@example.com / PW：demo_student1）
 
 
